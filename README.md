@@ -53,10 +53,10 @@
 
 
 ## Output:
-
-
-### Name:
-### Register Number: 
+![alt text](<WhatsApp Image 2026-03-13 at 8.33.15 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-03-13 at 8.33.16 PM.jpeg>)
+### Name: RITHESH S
+### Register Number: 212225220084
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
